@@ -1,4 +1,4 @@
-# Smart-Calculater
+# Smart-Calculator
 It is a smart calculator for calculation. It is based on HTML, CSS and JavaScript.
 
 Screenshots:-
